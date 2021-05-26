@@ -1,2 +1,2 @@
-# ihmchoirSite
+# stillshop Site
 our  choir website
